@@ -65,7 +65,7 @@ Al iniciar la aplicación, se muestra un menú interactivo en la consola con las
 4. **Listar autores vivos en un año**: Ingresa un año (entre 0 y 2025) para listar los autores que estaban vivos en ese año.
 5. **Listar libros por idioma**: Ingresa un código de idioma (ej. `es` para español, `en` para inglés) para listar los libros en ese idioma.
    
-0. **Salir**: Cierra la aplicación.
+
 
 
 
